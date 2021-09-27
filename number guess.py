@@ -51,7 +51,7 @@ async def p(ctx, guess : int):
 		count += 1
 
 	else:
-		await ctx.reply("It's not your turn so just sit keep quite, don't jump in between.")
+		await ctx.reply("It's not your turn so just sit and be keep quite, don't jump in between.")
 
 
 client.run('Your_Token')
